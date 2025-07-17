@@ -5,3 +5,7 @@ function enterInCourse() {
 function showConsole() {
     console.log("Hello World");
 }
+
+function choseCourse() {
+    window.open("https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6");
+}
