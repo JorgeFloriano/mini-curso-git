@@ -15,3 +15,11 @@ h1 {
     font-size: 40px;
     text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
+
+h2 {
+    text-align: center;
+    margin: 40px;
+    color: rgb(60, 115, 203);
+    font-size: 40px;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
